@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VitexGL
-- 👀 I’m interested in learn how progamming are easy;
+- 👀 I'm interested in learning programming;
 - 🌱 I’m currently learning html, css and Js;
 - 💞️ I’m looking to collaborate and be helped to learn more;
 - ⚡ Fun fact: I never went to IT college;
